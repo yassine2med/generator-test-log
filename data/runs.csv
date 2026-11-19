@@ -1,0 +1,11 @@
+generator,test_date,runtime_min,load_pct,result
+GEN-A,2026-08-12,35,42,pass
+GEN-A,2026-09-10,40,45,pass
+GEN-A,2026-10-14,32,38,pass
+GEN-A,2026-11-11,30,40,pass
+GEN-B,2026-08-13,30,35,pass
+GEN-B,2026-09-15,30,33,pass
+GEN-B,2026-10-01,20,25,pass
+GEN-C,2026-09-02,45,50,pass
+GEN-C,2026-10-05,15,10,fail
+GEN-D,2026-10-20,30,20,pass
