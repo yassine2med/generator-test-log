@@ -2,6 +2,8 @@
 
 # generator-test-log
 
+[![CI](https://github.com/yassine2med/generator-test-log/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/generator-test-log/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Reads a CSV of generator test runs and flags missed tests, short or low-load runs and failed tests.
 
 ![Screenshot](docs/screenshot.png)
