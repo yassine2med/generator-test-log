@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="generator-test-log" width="100%"></p>
+
 # generator-test-log
 
 Reads a CSV of generator test runs and flags missed tests, short or low-load runs and failed tests.
